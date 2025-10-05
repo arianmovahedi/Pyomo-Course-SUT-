@@ -1,11 +1,8 @@
 # <div align=center>Pyomo Course (SUT)</div>
-<hr />
+
 <p>This repo hosts the notebooks and data required for the pyomo crash course thought at <b>sharif university of technology (SUT)</b>.</p>
-<hr />
 
 ## <div align=center>Course Sections</div>
-
-<hr />
 
 <p>
     <ul>
@@ -18,5 +15,3 @@
         </li>
     </ul>
 </p>
-
-<hr />
