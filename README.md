@@ -4,6 +4,9 @@
 <hr />
 
 ## <div align=center>Course Sections</div>
+
+<hr />
+
 <p>
     <ul>
         <li><b>Section 1</b>: <em>Introduction</em></li>
@@ -15,3 +18,5 @@
         </li>
     </ul>
 </p>
+
+<hr />
